@@ -1,0 +1,15 @@
+6720ff353be2405e4f0310a2f3e3b1a0 *DESCRIPTION
+e7565bcb099342407863d2134c554310 *NAMESPACE
+e2f742932a118a065956e9018987e140 *R/RcppExports.R
+d3e979343d9fc3be3ff4e7fa0269eed4 *R/Rescal.R
+05e8ca3f29a0d0b22451986de37670c6 *R/package.R
+003303d7c48a545e91d89ffc7f34ab5d *R/ptf.R
+827b428c6f0903c734ba6f0167921397 *R/ptf_sparse.R
+213e341fd75b8fc3d898b0ce6edda126 *man/Rescal.Rd
+88d80b181ad545ec101ec0b714e44986 *man/package-ptf.Rd
+fd6e299efede4339b5fe762d57caa601 *man/ptf.Rd
+17f7a084b339b3574b9d59e60b2570fe *man/ptf_sparse.Rd
+2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars
+8d46d69896a1f1d31ed76035a0e49d67 *src/Makevars.win
+dcc7918beaf43e3d45368f46306e7538 *src/RcppExports.cpp
+f2266e06b6275e294c034c3d932220f9 *src/rcpparma_hello_world.cpp
